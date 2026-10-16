@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-9a426b) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-image-pro-prompts-ru](https://github.com/jsgotg/wan-2-7-image-pro-prompts-ru)
+- **Same model, other languages** — 9 more language builds: 中文 `wan-2-7-image-pro-api-cn` · Deutsch `wan-2-7-image-pro-api-de` · Español [wan-2-7-image-pro-api-es](https://github.com/pht10ui5daic/wan-2-7-image-pro-api-es) · Français `wan-2-7-image-pro-api-fr` · Relay/gateway `wan-2-7-image-pro-api-gateway` · Bahasa `wan-2-7-image-pro-api-id` · 日本語 [wan-2-7-image-pro-api-ja](https://github.com/jhz35cfz/wan-2-7-image-pro-api-ja) · 한국어 `wan-2-7-image-pro-api-ko` · Português [wan-2-7-image-pro-api-pt](https://github.com/gvq5ox1pycj/wan-2-7-image-pro-api-pt)
+- **More models in this language** — [midjourney-api-ru](https://github.com/sfpxvicw/midjourney-api-ru) · [gemini-2-5-flash-image-preview-api-ru](https://github.com/zwtdva8/gemini-2-5-flash-image-preview-api-ru) · [nano-banana-api-ru](https://github.com/ggpbi40ss/nano-banana-api-ru) · [gemini-3-1-flash-image-preview-api-ru](https://github.com/lu60av/gemini-3-1-flash-image-preview-api-ru) · [nano-banana-2-api-ru](https://github.com/jnp3hlry/nano-banana-2-api-ru) · [gemini-3-pro-image-preview-api-ru](https://github.com/dbxz24/gemini-3-pro-image-preview-api-ru)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-image-pro](https://github.com/topics/wan-2-7-image-pro) · [wan-2-7-image-pro-api](https://github.com/topics/wan-2-7-image-pro-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
